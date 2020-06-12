@@ -1,0 +1,14 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 __imp__glewInit@0，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwInit，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwTerminate，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwSetErrorCallback，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwWindowHint，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwCreateWindow，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwDestroyWindow，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwWindowShouldClose，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwPollEvents，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwMakeContextCurrent，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwSwapBuffers，该符号在函数 _main 中被引用
+E:\OpenGL\Libraries\Libs\glfw3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+E:\c++ code\Space Invaders\Space Invaders\Debug\Space Invaders.exe : fatal error LNK1120: 11 个无法解析的外部命令
